@@ -33,6 +33,10 @@ a {
     text-decoration: none;
 }
 
+a:visited {
+    color: #F9FAF8;
+}
+
 .left, .right {
     display: flex;
     align-items: center;
