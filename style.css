@@ -1,5 +1,5 @@
 * {
-
+    border: 1px solid red;
 }
 
 html {
@@ -104,4 +104,23 @@ a {
 
 .info > .info-text {
     width: 200px;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.blockquote {
+    max-width: 900px;
+}
+
+.quote .blockquote-credit {
+    font-weight: bold;
+    font-style: normal;
+    text-align: right;
 }
