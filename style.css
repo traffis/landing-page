@@ -92,14 +92,14 @@ a {
 .info-content {
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 48px;
 }
 
 .info > img {
     height: auto;
     width: 200px;
     border-radius: 12px;
-    border: 1px #3882F6 solid;
+
 }
 
 .info > .info-text {
